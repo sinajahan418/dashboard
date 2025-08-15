@@ -1,4 +1,4 @@
-# TraversyPress UI
+# Dashboar UI
 
 <img src="img/screen.png" alt="" />
 
